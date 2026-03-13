@@ -1,1 +1,1 @@
-﻿# OpenStack SLA TP Lab
+﻿# OpenStack SLA security TP Lab
